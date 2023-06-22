@@ -1,0 +1,255 @@
+[
+    {
+        "id": "1",
+        "name": "Baek Jong-won",
+        "picture": "https://1.vikiplatform.com/pr/21413pr/647229a853.jpg?x=b&s=590x330&q=h&e=t&f=t&cb=1",
+        "experience": 25,
+        "num_recipes": 75,
+        "likes": 1500000,
+        "description": "Hello, I'm Baek Jong-won. A South Korean Chef. As a chef, I have some awards like 'Best Korean Chef' 2018, Korean Restaurant Association. 'Asia's 50 Best Restaurants' 2019, William Reed Business Media. I believe in preserving the authenticity of traditional Korean cuisine while also innovating and experimenting with new techniques and ingredients. All I want to say is that you must try Traditional Korean cuisine. ",
+        "recipe_id": "039721",
+        "recipe_name1": "Bibimbap",
+        "recipe_img1":"https://assets.bonappetit.com/photos/624f3dc73a6e981591892a9d/1:1/w_2800,h_2800,c_limit/0407-bibimbap-at-home-lede.jpg",
+        "ingredients1": [
+            "rice",
+            "beef",
+            "vegetables",
+            "egg",
+            "gochujang"
+        ],
+        "cooking_method1": "1. Cook rice\n2. Cook beef and vegetables separately\n3. Fry an egg\n4. Arrange ingredients on top of rice\n5. Serve with gochujang",
+        "rating1": 4.5,
+        "recipe_name2": "Japchae",
+        "recipe_img2":"https://i2.wp.com/hipfoodiemom.com/wp-content/uploads/2017/02/IMG_0979_new.jpg",
+        "ingredients2": [
+            "sweet potato noodles",
+            "beef",
+            "vegetables",
+            "soy sauce",
+            "sesame oil"
+        ],
+        "cooking_method2": "1. Soak noodles in water\n2. Cook beef and vegetables separately\n3. Boil noodles\n4. Mix all ingredients with soy sauce and sesame oil\n5. Serve",
+        "rating2": 4.2,
+        "recipe_name3": "Kimchi Fried Rice",
+        "recipe_img3":"https://www.recipetineats.com/wp-content/uploads/2021/03/Kimchi-Fried-Rice-Skillet.jpg",
+        "ingredients3": [
+            "rice",
+            "kimchi",
+            "beef",
+            "vegetables",
+            "soy sauce"
+        ],
+        "cooking_method3": "1. Cook rice\n2. Fry beef and vegetables\n3. Add kimchi and soy sauce\n4. Add rice\n5. Serve",
+        "rating3": 4.6
+    },
+    {
+        "id": "2",
+        "name": "Sun-young Park",
+        "picture": "https://www.themanual.com/wp-content/uploads/sites/9/2021/10/chef-brian-kim-oiji.jpg?fit=800%2C800&p=1",
+        "experience": 10,
+        "num_recipes": 50,
+        "likes": 10000,
+        "description": "Hello, I'm Sun-young Park. A South Korean Chef. As a chef, I have some awards like 'Best Korean Chef' 2018, Korean Restaurant Association. 'Asia's 50 Best Restaurants' 2019, William Reed Business Media. I believe in preserving the authenticity of traditional Korean cuisine while also innovating and experimenting with new techniques and ingredients. All I want to say is that you must try Traditional Korean cuisine. ",
+        "recipe_id": "091843",
+        "recipe_name1": "Bulgogi",
+        "recipe_img1":"https://www.cookingclassy.com/wp-content/uploads/2022/06/bulgogi-19.jpg",
+        "ingredients1": [
+            "beef",
+            "soy sauce",
+            "sugar",
+            "garlic",
+            "sesame oil"
+        ],
+        "cooking_method1": "1. Marinate beef in soy sauce, sugar, garlic, and sesame oil\n2. Fry or grill beef\n3. Serve",
+        "rating1": 4.8,
+        "recipe_name2": "Haemul Pajeon",
+        "recipe_img2":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/12/21/0/FNK_Haemul-Pajeon-2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1482354070138.jpeg",
+        "ingredients2": [
+            "flour",
+            "eggs",
+            "seafood",
+            "green onions",
+            "oil"
+        ],
+        "cooking_method2": "1. Mix flour, eggs, and water\n2. Add seafood and green onions\n3. Fry in oil\n4. Serve",
+        "rating2": 4.3,
+        "recipe_name3": "Korean Fried Chicken",
+        "recipe_img3":"https://images.immediate.co.uk/production/volatile/sites/30/2017/05/Korean-fried-chicken-619593a.jpg?quality=90&webp=true&resize=504,458",
+        "ingredients3": [
+            "chicken",
+            "flour",
+            "corn starch",
+            "eggs",
+            "gochujang"
+        ],
+        "cooking_method3": "1. Mix flour, corn starch, and eggs\n2. Coat chicken in mixture\n3. Fry chicken\n4. Serve with gochujang",
+        "rating3": 4.7
+    },
+    {
+        "id": "3",
+        "name": "Min-ji Lee",
+        "picture": "https://live-production.wcms.abc-cdn.net.au/37986ca1b0d27e57ea9c090a70acc90b?impolicy=wcms_crop_resize&cropH=1459&cropW=2592&xPos=0&yPos=44&width=862&height=485",
+        "experience": 8,
+        "num_recipes": 40,
+        "likes": 8000,
+        "description": "Hello, I'm Min-ji Lee. A South Korean Chef. As a chef, I have some awards like 'Best Korean Chef' 2018, Korean Restaurant Association. 'Asia's 50 Best Restaurants' 2019, William Reed Business Media. I believe in preserving the authenticity of traditional Korean cuisine while also innovating and experimenting with new techniques and ingredients. All I want to say is that you must try Traditional Korean cuisine. ",
+        "recipe_id": "019834",
+        "recipe_name1": "Kimchi Jjigae",
+        "recipe_img1":"https://www.grocery.coop/sites/default/files/Kimchi%20Tofu%20Stew_shutterstock_470843366_715x477.jpg",
+        "ingredients1": [
+            "kimchi",
+            "beef",
+            "tofu",
+            "green onions",
+            "gochugaru"
+        ],
+        "cooking_method1": "1. Cut kimchi and beef into bite-sized pieces\n2. Fry kimchi and beef in a pot\n3. Add water and bring to boil\n4. Add tofu, green onions, and gochugaru\n5. Simmer for 10-15 minutes\n6. Serve",
+        "rating1": 4.4,
+        "recipe_name2": "Galbi",
+        "recipe_img2":"https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2020/08/LA-Galbi-09-mini.jpg?fit=1000%2C667&ssl=1",
+        "ingredients2": [
+            "beef ribs",
+            "soy sauce",
+            "sugar",
+            "garlic",
+            "green onions"
+        ],
+        "cooking_method2": "1. Marinate beef ribs in soy sauce, sugar, garlic, and green onions\n2. Grill or broil beef ribs\n3. Serve",
+        "rating2": 4.9,
+        "recipe_name3": "Dak Galbi",
+        "recipe_img3":"https://thumbs.dreamstime.com/b/dakgalbi%E6%88%96%E8%BE%A3%E7%83%A4%E9%B8%A1%E5%92%8C%E8%8F%9C%E9%A3%9F%E8%B0%B1-81812674.jpg",
+        "ingredients3": [
+            "chicken",
+            "sweet potato",
+            "rice cake",
+            "gochujang",
+            "garlic"
+        ],
+        "cooking_method3": "1. Cut chicken, sweet potato, and rice cake into bite-sized pieces\n2. Fry chicken and vegetables in a pan\n3. Add gochujang and garlic\n4. Cook until chicken is fully cooked\n5. Serve",
+        "rating3": 4.7
+    },
+    {
+        "id": "4",
+        "name": "Se-yeon",
+        "picture": "https://www.fsrmagazine.com/sites/default/files/styles/floating_image/public/esterchoiheadshot.jpg?itok=_NTlzoHO",
+        "experience": 12,
+        "num_recipes": 60,
+        "likes": 12000,
+        "description": "Hello, I'm Se-yeon. A South Korean Chef. As a chef, I have some awards like 'Best Korean Chef' 2018, Korean Restaurant Association. 'Asia's 50 Best Restaurants' 2019, William Reed Business Media. I believe in preserving the authenticity of traditional Korean cuisine while also innovating and experimenting with new techniques and ingredients. All I want to say is that you must try Traditional Korean cuisine. ",
+        "recipe_id": "019341",
+        "recipe_name1": "Bungeoppang",
+        "recipe_img1":"https://recipes.net/wp-content/uploads/2021/12/korean-fish-shaped-pastry-bungeoppang-recipe-scaled.jpg",
+        "ingredients1": [
+            "flour",
+            "yeast",
+            "sugar",
+            "milk",
+            "red bean paste"
+        ],
+        "cooking_method1": "1. Mix flour, yeast, sugar, and milk\n2. Let the dough rise\n3. Fill the dough with red bean paste\n4. Cook in a special fish-shaped mold\n5. Serve",
+        "rating1": 4.2,
+        "recipe_name2": "Samgyetang",
+        "recipe_img2":"https://spicecravings.com/wp-content/uploads/2018/02/Korean-Lettuce-Cups1.jpg",
+        "ingredients2": [
+            "chicken",
+            "rice",
+            "ginseng",
+            "jujube",
+            "garlic"
+        ],
+        "cooking_method2": "1. Stuff chicken with rice, ginseng, jujube, and garlic\n2. Boil chicken in a pot for about an hour\n3. Serve with broth and garnishes",
+        "rating2": 4.6,
+        "recipe_name3": "Sundubu Jjigae",
+        "recipe_img3":"https://www.koreanbapsang.com/wp-content/uploads/2015/01/DSC_0628-e1421723948340.jpg",
+        "ingredients3": [
+            "soft tofu",
+            "seafood",
+            "vegetables",
+            "gochujang",
+            "soy sauce"
+        ],
+        "cooking_method3": "1. Fry seafood and vegetables in a pot\n2. Add water and bring to boil\n3. Add soft tofu, gochujang, and soy sauce\n4. Simmer for 10-15 minutes\n5. Serve",
+        "rating3": 4.5
+    },
+    {
+        "id": "5",
+        "name": "Seok-hoon Kim",
+        "picture": "https://static.nationalgeographic.co.uk/files/styles/image_3200/public/pcgangwon0006hr_1.jpg?w=1600&h=900",
+        "experience": 20,
+        "num_recipes": 100,
+        "likes": 20000,
+        "description": "Hello, I'm Seok-hoon Kim. A South Korean Chef. As a chef, I have some awards like 'Best Korean Chef' 2018, Korean Restaurant Association. 'Asia's 50 Best Restaurants' 2019, William Reed Business Media. I believe in preserving the authenticity of traditional Korean cuisine while also innovating and experimenting with new techniques and ingredients. All I want to say is that you must try Traditional Korean cuisine. ",
+        "recipe_name1": "Ssambap",
+        "recipe_img1":"https://i0.wp.com/teekeatz.com/wp-content/uploads/2022/06/IMG_7194.jpg?fit=850%2C950&ssl=1",
+        "recipe_id": "02394132",
+        "ingredients1": [
+            "rice",
+            "lettuce",
+            "beef belly",
+            "kimchi",
+            "ssamjang"
+        ],
+        "cooking_method1": "Ssambap cakes in cold water for 20 minutes. Meanwhile, bring a pot of water to boil and cook fish cakes until they float to the surface. Drain and set aside. In a pan, combine rice cakes, fish cakes, gochujang, soy sauce, sugar, and enough water to cover. Cook over medium heat until sauce thickens and rice cakes are tender.",
+        "rating1": 4.6,
+        "recipe_name2": "Kongguksu",
+        "recipe_img2":"https://www.koreanbapsang.com/wp-content/uploads/2010/07/DSC_1702-e1536078527576.jpg",
+        "ingredients2": [
+            "soybeans",
+            "water",
+            "noodles",
+            "cucumber",
+            "sesame seeds"
+        ],
+        "cooking_method2": "1. Soak soybeans overnight\n2. Blend soaked soybeans with water\n3. Strain the mixture\n4. Cook noodles\n5. Serve noodles in a bowl of soybean milk\n6. Garnish with sliced cucumbers and sesame seeds",
+        "rating2": 4.3,
+        "recipe_name3": "Japchae",
+        "recipe_img3":"https://i2.wp.com/hipfoodiemom.com/wp-content/uploads/2017/02/IMG_0979_new.jpg",
+        "ingredients3": [
+            "sweet potato noodles",
+            "beef",
+            "vegetables",
+            "soy sauce",
+            "sesame oil"
+        ],
+        "cooking_method3": "1. Soak noodles in water\n2. Cook beef and vegetables separately\n3. Boil noodles\n4. Mix all ingredients with soy sauce and sesame oil\n5. Serve",
+        "rating3": 4.2
+    },
+    {
+        "id": "6",
+        "name": "Soo-ah Jung",
+        "picture": "https://media.istockphoto.com/id/1311377147/photo/male-chef.jpg?s=612x612&w=0&k=20&c=pHXzVdJl6HE3i3d0ZNj8tlrSAGtcYzHI6qF12rN9kL8=",
+        "experience": 5,
+        "num_recipes": 25,
+        "likes": 20000,
+        "description": "Hello, I'm Soo-ah Jung. A South Korean Chef. As a chef, I have some awards like 'Best Korean Chef' 2018, Korean Restaurant Association. 'Asia's 50 Best Restaurants' 2019, William Reed Business Media. I believe in preserving the authenticity of traditional Korean cuisine while also innovating and experimenting with new techniques and ingredients. All I want to say is that you must try Traditional Korean cuisine. ",
+        "recipe_id": "0231842",
+        "recipe_name1": "Tteokbokki",
+        "recipe_img1":"https://twoplaidaprons.com/wp-content/uploads/2022/12/close-top-down-of-tteokbokki-thumbnail.jpg",
+
+        "ingredients1": ["rice cakes", "fish cakes", "gochujang", "soy sauce", "sugar"],
+        "cooking_method1": "Soak rice cakes in cold water for 20 minutes. Meanwhile, bring a pot of water to boil and cook fish cakes until they float to the surface. Drain and set aside. In a pan, combine rice cakes, fish cakes, gochujang, soy sauce, sugar, and enough water to cover. Cook over medium heat until sauce thickens and rice cakes are tender.",
+        "rating1": 4.6,
+        "recipe_name2": "Haemul Pajeon",
+        "recipe_img2":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/12/21/0/FNK_Haemul-Pajeon-2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1482354070138.jpeg",
+        "ingredients2": [
+            "flour",
+            "eggs",
+            "seafood",
+            "green onions",
+            "oil"
+        ],
+        "cooking_method2": "1. Mix flour, eggs, and water\n2. Add seafood and green onions\n3. Fry in oil\n4. Serve",
+        "rating2": 4.3,
+        "recipe_name3": "Korean Fried Chicken",
+        "recipe_img3":"https://images.immediate.co.uk/production/volatile/sites/30/2017/05/Korean-fried-chicken-619593a.jpg?quality=90&webp=true&resize=504,458",
+        "ingredients3": [
+            "chicken",
+            "flour",
+            "corn starch",
+            "eggs",
+            "gochujang"
+        ],
+        "cooking_method3": "1. Mix flour, corn starch, and eggs\n2. Coat chicken in mixture\n3. Fry chicken\n4. Serve with gochujang",
+        "rating3": 4.7
+    }
+]
